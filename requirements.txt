@@ -1,3 +1,5 @@
 opencv-python
 pygame
 windows-curses; sys_platform == 'win32' or sys_platform == 'win64'
+tqdm
+moviepy
